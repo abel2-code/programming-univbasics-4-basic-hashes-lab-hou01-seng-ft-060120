@@ -2,8 +2,8 @@ def new_hash
   {}
 end
 
-def my_hash(value)
-  {:key => value}
+def my_hash
+  {:key => "value"}
 end
 
 def pioneer
